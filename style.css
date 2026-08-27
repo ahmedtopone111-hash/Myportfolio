@@ -186,11 +186,11 @@ position: relative;
 
 .imggg {
   position: absolute;
-  top: 50%;
-  right: 0%;
+  top: 60%;
+  left: 80%;
   width: 250px;
   height: auto;
-  transform: translateY(-50%);
+  transform: translateY(-20%);
 }
 
 
