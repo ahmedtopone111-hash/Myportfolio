@@ -334,3 +334,9 @@ position: relative;
   border-top: 1px solid #222;
   box-sizing: border-box;
 }
+
+@media (max-width: 480px){
+.navbar{
+display: none;
+}
+}
