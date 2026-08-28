@@ -335,7 +335,7 @@ position: relative;
   box-sizing: border-box;
 }
 
-@media (max-width: 480px){
+@media (max-width: 768px){
 .navbar{
 display: none;
 }
