@@ -340,4 +340,11 @@ position: relative;
 .navbar{
 display: none;
 }
+
+  section {
+    min-height: auto;
+  }
+
+  .imgg{
+    display: none;
 }
