@@ -10,7 +10,8 @@ html{
 }
 
 body{
- background-color: #257d9c;
+  width: 100%;
+  background-color: #257d9c;
  font-family: sans-serif;
 }
 
